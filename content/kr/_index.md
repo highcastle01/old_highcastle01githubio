@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 임성혁
+title: 임성혁(한글)
 
 # Name pronunciation (optional)
 name_pronunciation: Yim-seonghyuk
