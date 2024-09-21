@@ -6,13 +6,13 @@ en:
   languageCode: en-us
   title: "My Website"
   weight: 1
-  contentDir: "content/en"  # 영어 콘텐츠 폴더
+  contentDir: "./content/en"  # 영어 콘텐츠 폴더
 
 kr:
   languageCode: ko-kr
   title: "내 웹사이트"
   weight: 2
-  contentDir: "content/kr"  # 한국어 콘텐츠 폴더
+  contentDir: "./content/kr"  # 한국어 콘텐츠 폴더
 
 
 # # Default language
